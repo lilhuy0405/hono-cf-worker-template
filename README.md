@@ -47,3 +47,6 @@ npm run deploy
 - `src/services` include services which handle business logic and interact with database
 - `schema.ts` is a file to define schema for drizzle orm. Change this file then run `npm run db:generate` to generate
   new schema in `drizzle` folder
+
+
+Created by lilhuy I'll update new features later <3
